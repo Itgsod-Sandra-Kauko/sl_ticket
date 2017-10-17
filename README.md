@@ -1,6 +1,6 @@
 # Sl-tickets
 
-A program that tells you the price of the SL-ticket specified for you.
+Two programs that tells you the price of the SL-ticket specified for you.
 This depends on your age or current status.
 
 Which are:
